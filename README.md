@@ -6,3 +6,5 @@ This App provides a private platform for the alumni of any particular college to
 A platform which connects the students to their helpful Alumni will help in creating better grooming methods, improve the teaching learning process and hence creating professionals with edgy skill set.
 
 The app started out as a final year project and is still in the development phase.
+
+Update: Due to lack of time, this was turned into a dummy app, just for presentation purpose. If anyone wants, the source code is available.
